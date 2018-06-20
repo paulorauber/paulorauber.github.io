@@ -4,40 +4,55 @@
 <head>
 
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Paulo E. Rauber's academic page">
-    <meta name="author" content="Paulo E. Rauber">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Paulo Rauber">
+    <meta name="author" content="Paulo Rauber">
 
-    <title>Paulo E. Rauber</title>
+    <title>Paulo Rauber</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/solid.css" integrity="sha384-Rw5qeepMFvJVEZdSo1nDQD5B6wX0m7c5Z/pLNvjkB14W6Yki1hKbSEQaX9ffUbWe" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/regular.css" integrity="sha384-EWu6DiBz01XlR6XGsVuabDMbDN6RT8cwNoY+3tIH+6pUCfaNldJYJQfQlbEIWLyA" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/fontawesome.css" integrity="sha384-GVa9GOgVQgOk+TNYXu7S/InPTfSDTtBalSgkgqQ7sCik56N9ztlkoTr2f/T44oKV" crossorigin="anonymous">
 
+    
     <!-- Custom CSS -->
     <style>
     body {
         font-family: 'Open Sans', sans-serif;
-        padding-top: 70px;
+        padding-top: 54px;
         line-height: 150%;
         /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    }
+    @media (min-width: 992px) {
+        body {
+	    padding-top: 56px;
+        }
+    }
+    
+    .h1, .h2, .h3, .h4, h1, h2, h3, h4 {
+      margin-top: 25px;
+      margin-bottom: 12px;
     }
     
     .my-image img {
         display: block;
         margin: auto;
-        width: 150px;
-        margin-top: 50px;
+        width: 300px;
+        margin-top: 20px;
     }
+    
+    .plot img {
+        display: block;
+        margin: auto;
+        width: 560px;
+        margin-top: 20px;
+    }
+
     </style>
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
     
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -52,67 +67,62 @@
 
 </head>
 
-
-
-<body>
+  <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">
-                    <li>
-                        <a href="index.html">about</a>
-                    </li>
-                    <li>
-                        <a href="work.html">work</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">Paulo Rauber</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">about</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="work.html">work</a>
+            </li>
+          </ul>
         </div>
-        <!-- /.container -->
+      </div>
     </nav>
 
     <!-- Page Content -->
     <div class="container">
-    	<div class="col-lg-8 text-justify">
+      <div class="row">
+        <div class="col-lg-12 text-left">
+          
 
-<h3>Publications</h3>	
-<p><a href="docs/cv.pdf">Curriculum vitae</a>.</p>
+<h3>Work</h3>
 
-<h3>Notes</h3>
-<p><a href="notes/machine_learning.pdf">Machine learning</a>.</p>
-<p><a href="notes/neural_networks.pdf">Neural networks</a> (<a href="https://github.com/paulorauber/nn">code</a>).</p>
-<p><a href="notes/probabilistic_graphical_models.pdf">Probabilistic graphical models</a> (<a href="https://github.com/paulorauber/pgm">code</a>). </p>
-<p><a href="notes/reinforcement_learning.pdf">Reinforcement learning</a> (<a href="https://github.com/paulorauber/rl">even</a> <a href="https://github.com/paulorauber/rlnn">more</a> <a href="https://github.com/paulorauber/rpg">code</a>). </p>
-<p><a href="notes/scientific_visualization.pdf">Scientific visualization</a>.</p>
+<p><i class="far fa-file-pdf"></i> <a href="docs/cv.pdf">Curriculum vitae</a>.</p>
 
-<h3>Teaching</h3>
-<p><a href="slides/deep_learning_lab.pdf">Deep learning lab</a>.</p>
+<h4>Teaching</h4>
+<p><i class="far fa-file-pdf"></i> <a href="slides/deep_learning_lab.pdf">Deep learning lab</a>.</p>
 
-<h3>Other projects</h3>
-<p>T-SNE and dynamic t-SNE in theano (<a href="https://github.com/paulorauber/thesne">code</a>).</p>
-	  </div>
+<h4>Notes</h4>
+<p><i class="far fa-file-pdf"></i> <a href="notes/calculus.pdf">Calculus</a>.</p>
+<p><i class="far fa-file-pdf"></i> <a href="notes/linear_algebra.pdf">Linear algebra</a>.</p>
+<p><i class="far fa-file-pdf"></i> <a href="notes/machine_learning.pdf">Machine learning</a>.</p>
+<p><i class="far fa-file-pdf"></i> <a href="notes/neural_networks.pdf">Neural networks</a> (<a href="https://github.com/paulorauber/nn">code</a>).</p>
+<p><i class="far fa-file-pdf"></i> <a href="notes/probabilistic_graphical_models.pdf">Probabilistic graphical models</a> (<a href="https://github.com/paulorauber/pgm">code</a>). </p>
+<p><i class="far fa-file-pdf"></i> <a href="notes/reinforcement_learning.pdf">Reinforcement learning</a> (<a href="https://github.com/paulorauber/rl">even</a> <a href="https://github.com/paulorauber/rlnn">more</a> <a href="https://github.com/paulorauber/rpg">code</a>). </p>
+<p><i class="far fa-file-pdf"></i> <a href="notes/scientific_visualization.pdf">Scientific visualization</a>.</p>
+
+<h4>Projects</h4>
+<p><a href="hpg.html">Hindsight policy gradients</a>.</p>
+<p><a href="https://github.com/paulorauber/thesne">Dynamic t-SNE</a>.</p>
+        
+        </div>
+      </div>
     </div>
-    <!-- /.container -->
 
-    <!-- jQuery Version 1.11.0 -->
-    <script src="js/jquery-1.11.0.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-
-</body>
+  </body>
 
 </html>
