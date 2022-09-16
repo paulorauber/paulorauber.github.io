@@ -8,12 +8,6 @@ redirect_from:
 
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Curriculum Vitae](/files/cv.pdf)
 
-
-## Slides
-
-* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Deep learning lab](/files/slides/deep_learning_lab.pdf)
-* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Reinforcement learning](/files/slides/reinforcement_learning.pdf)
-
 ## Notes
 
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Calculus](/files/notes/calculus.pdf)
@@ -24,7 +18,16 @@ redirect_from:
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Reinforcement learning](/files/notes/reinforcement_learning.pdf) ([even](https://github.com/paulorauber/rl) [more](https://github.com/paulorauber/rlnn) [code](https://github.com/paulorauber/rpg))
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Scientific visualization](/files/notes/scientific_visualization.pdf)
 
+## Slides
+
+* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Deep learning lab](/files/slides/deep_learning_lab.pdf) (2019)
+* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Reinforcement learning](/files/slides/reinforcement_learning.pdf) (2021)
+
 ## Projects
 
-* <i class="fas fa-fw fa-link" aria-hidden="true"></i> [Hindsight policy gradients](/hpg/)
-* <i class="fab fa-fw fa-github" aria-hidden="true"></i> [Dynamic t-SNE](https://github.com/paulorauber/thesne)
+* [Colosseum](https://github.com/MichelangeloConserva/Colosseum)
+* [Hindsight policy gradients](/hpg/)
+
+## Advice
+
+* [Recommended reading](/recommended_reading/)
