@@ -6,7 +6,7 @@ redirect_from:
   - /work.html
 ---
 
-* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Curriculum Vitae](/files/cv.pdf)
+* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Curriculum vitae](/files/cv.pdf)
 
 ## Notes
 

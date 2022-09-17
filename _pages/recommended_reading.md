@@ -8,7 +8,7 @@ redirect_from:
 
 I recommend the following references to students interested in artificial intelligence research. 
 
-My current research is focused on developing principled but scalable Bayesian reinforcement learning methods. A typical Bayesian reinforcement learning method represents its knowledge about an environment by a probability distribution over (one-step dynamics) models and uses this knowledge to seek optimal actions. If you would like to pursue a PhD under my supervision, please skim the corresponding references and my [selected publications](/about/).
+My current research is focused on developing principled but scalable Bayesian reinforcement learning methods. A typical Bayesian reinforcement learning method represents its knowledge about an environment by a probability distribution over (one-step dynamics) models and uses this knowledge to seek optimal actions. If you would like to pursue a PhD under my supervision, please skim the highlighted references and my [selected publications](/about/).
 
 ## Graduate level
 
@@ -23,7 +23,7 @@ My current research is focused on developing principled but scalable Bayesian re
   * M.J. Kochenderfer, T.A. Wheeler, K.H. Wray. *"Algorithms for Decision Making"*, MIT Press, 2022.
   * C. Dimitrakakis, R. Ortner. *"Decision Making Under Uncertainty and Reinforcement Learning"*. Springer, 2022.
   * __Bayesian reinforcement learning ([notes](/files/notes/reinforcement_learning.pdf), Secs. 14 and 15)__:
-    * M. Ghavamzadeh, S. Mannor, J. Pineau, A. Tamar. *"Bayesian Reinforcement Learning: A Survey"*. Foundations and Trends in Machine Learning, 2015.
+    * __M. Ghavamzadeh, S. Mannor, J. Pineau, A. Tamar. *"Bayesian Reinforcement Learning: A Survey"*. Foundations and Trends in Machine Learning, 2015.__
     * A. Guez. *"Sample-based Search Methods for Bayes-Adaptive Planning"*. PhD thesis, 2015.
     * I. Osband. *"Deep Exploration via Randomized Value Functions"*. PhD Thesis, 2017.
   * Scalable exploration methods:
