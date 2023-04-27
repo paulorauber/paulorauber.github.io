@@ -18,6 +18,7 @@ More information about my work is available [here](/work/).
 
 ## Selected publications
 
+* R. Sasso, M. Conserva, P. Rauber. *"Posterior Sampling for Deep Reinforcement Learning"*, **International Conference on Machine Learning (ICML)**, 2023.
 * M. Conserva, P. Rauber. *"Hardness in Markov Decision Processes: Theory and Practice"*, **Conference on Neural Information Processing Systems (NeurIPS)**, 2022.
 * P. Rauber\*, A. Ramesh\*, M. Conserva, J. Schmidhuber. *"Recurrent Neural-Linear Posterior Sampling for Non-Stationary Contextual Bandits"*, **Neural Computation**, 2022.
 * P. Rauber, A. Ummadisingu, F. Mutz, J. Schmidhuber. *"Hindsight Policy Gradients"*, **International Conference on Learning Representations (ICLR)**, 2019.
