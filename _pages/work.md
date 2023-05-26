@@ -12,6 +12,7 @@ redirect_from:
 
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Calculus](/files/notes/calculus.pdf)
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Linear algebra](/files/notes/linear_algebra.pdf)
+* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Measure-theoretic probability](/files/notes/probability.pdf)
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Machine learning](/files/notes/machine_learning.pdf)
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Neural networks](/files/notes/neural_networks.pdf) ([code](https://github.com/paulorauber/nn))
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Probabilistic graphical models](/files/notes/probabilistic_graphical_models.pdf) ([code](https://github.com/paulorauber/pgm))
