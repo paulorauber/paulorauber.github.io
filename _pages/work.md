@@ -28,6 +28,7 @@ redirect_from:
 
 * [Colosseum](https://github.com/MichelangeloConserva/Colosseum)
 * [Hindsight policy gradients](/hpg/)
+* [Posterior sampling for deep reinforcement learning](https://github.com/remosasso/PSDRL)
 
 ## Advice
 

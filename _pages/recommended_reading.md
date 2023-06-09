@@ -26,11 +26,6 @@ My current research is focused on developing principled but scalable Bayesian re
     * __M. Ghavamzadeh, S. Mannor, J. Pineau, A. Tamar. *"Bayesian Reinforcement Learning: A Survey"*. Foundations and Trends in Machine Learning, 2015.__
     * A. Guez. *"Sample-based Search Methods for Bayes-Adaptive Planning"*. PhD thesis, 2015.
     * I. Osband. *"Deep Exploration via Randomized Value Functions"*. PhD Thesis, 2017.
-  * Scalable exploration methods:
-    * A.P. Badia, B. Piot, S. Kapturowski, P. Sprechmann, A. Vitvitskyi, D. Guo, C. Blundell. *"Agent57: Outperforming the Atari Human Benchmark"*, International Conference on Machine Learning, 2020. *[Note: follow the references in the introduction.]*
-  * Scalable model-based reinforcement learning:
-    * J. Schrittwieser, I. Antonoglou, T. Hubert, K. Simonyan, L. Sifre, S. Schmitt, A. Guez, E. Lockhart, D. Hassabis, T. Graepel, T. Lillicrap, D. Silver. *"Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model"*. Nature, 2020.
-    * D. Hafner, T. Lillicrap, M. Norouzi, J. Ba. *"Mastering Atari with Discrete World Models"*. International Conference on Learning Representations, 2020.
 * Artificial intelligence:
   * S. Legg. *"Machine Super Intelligence"*. PhD thesis, 2008.
 
