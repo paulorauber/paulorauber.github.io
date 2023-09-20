@@ -21,11 +21,8 @@ My current research is focused on developing principled but scalable Bayesian re
   * R.S. Sutton, A.G. Barto. *"Reinforcement Learning: An Introduction"*. MIT Press, 2018.
   * D.P. Bertsekas. *"Reinforcement Learning and Optimal Control*". Athena Scientific, 2019.
   * M.J. Kochenderfer, T.A. Wheeler, K.H. Wray. *"Algorithms for Decision Making"*, MIT Press, 2022.
-  * C. Dimitrakakis, R. Ortner. *"Decision Making Under Uncertainty and Reinforcement Learning"*. Springer, 2022.
   * __Bayesian reinforcement learning ([notes](/files/notes/reinforcement_learning.pdf), Secs. 14 and 15)__:
     * __M. Ghavamzadeh, S. Mannor, J. Pineau, A. Tamar. *"Bayesian Reinforcement Learning: A Survey"*. Foundations and Trends in Machine Learning, 2015.__
-    * A. Guez. *"Sample-based Search Methods for Bayes-Adaptive Planning"*. PhD thesis, 2015.
-    * I. Osband. *"Deep Exploration via Randomized Value Functions"*. PhD Thesis, 2017.
 * Artificial intelligence:
   * S. Legg. *"Machine Super Intelligence"*. PhD thesis, 2008.
 

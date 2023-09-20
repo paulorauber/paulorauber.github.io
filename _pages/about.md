@@ -27,5 +27,6 @@ More information about my work is available [here](/work/).
 
 * [Michelangelo Conserva](https://michelangeloconserva.github.io/)
 * [Remo Sasso](https://remosasso.github.io/)
+* Connor Watts
 
 If you would like to pursue a PhD under my supervision, please send me a message with your curriculum vitae and a brief description of your research goals after reading [this](/recommended_reading/).
