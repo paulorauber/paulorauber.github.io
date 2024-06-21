@@ -20,11 +20,6 @@ redirect_from:
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Reinforcement learning](/files/notes/reinforcement_learning.pdf) ([even](https://github.com/paulorauber/rl) [more](https://github.com/paulorauber/rlnn) [code](https://github.com/paulorauber/rpg))
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Scientific visualization](/files/notes/scientific_visualization.pdf)
 
-## Slides
-
-* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Deep learning lab](/files/slides/deep_learning_lab.pdf) (2019)
-* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Reinforcement learning](/files/slides/reinforcement_learning.pdf) (2021)
-
 ## Projects
 
 * [Colosseum](https://github.com/MichelangeloConserva/Colosseum)
