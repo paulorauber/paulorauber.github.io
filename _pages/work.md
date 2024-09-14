@@ -18,6 +18,7 @@ redirect_from:
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Neural networks](/files/notes/neural_networks.pdf) ([code](https://github.com/paulorauber/nn))
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Probabilistic graphical models](/files/notes/probabilistic_graphical_models.pdf) ([code](https://github.com/paulorauber/pgm))
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Reinforcement learning](/files/notes/reinforcement_learning.pdf) ([even](https://github.com/paulorauber/rl) [more](https://github.com/paulorauber/rlnn) [code](https://github.com/paulorauber/rpg))
+* <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Reinforcement learning theory](/files/notes/rl_theory.pdf) (under development)
 * <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Scientific visualization](/files/notes/scientific_visualization.pdf)
 
 ## Projects
