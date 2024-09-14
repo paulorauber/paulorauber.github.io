@@ -36,7 +36,7 @@ My current research is focused on developing principled but scalable Bayesian re
   * K.P. Murphy. *"Probabilistic Machine Learning: An Introduction"*. MIT Press, 2022.
   * M.J. Kochenderfer, T.A. Wheeler, K.H. Wray. *"Algorithms for Decision Making"*, MIT Press, 2022.
 
-* Artificial neural networks ([notes](/files/notes/neural_networks.pdf)):
+* Neural networks ([notes](/files/notes/neural_networks.pdf)):
   * S.J.D. Prince. *"Understanding Deep Learning"*. MIT Press, 2023.
 
 * Probabilistic graphical models ([notes](/files/notes/probabilistic_graphical_models.pdf)):
