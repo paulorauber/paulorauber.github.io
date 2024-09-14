@@ -15,7 +15,7 @@ My current research is focused on developing principled but scalable Bayesian re
 * Artificial intelligence:
   * S. Legg. *"Machine Super Intelligence"*. PhD thesis, 2008.
 
-* __Bayesian Reinforcement Learning ([notes](/files/notes/mtbrl.pdf))__:
+* __Bayesian reinforcement learning ([notes](/files/notes/mtbrl.pdf))__:
   * __M. Ghavamzadeh, S. Mannor, J. Pineau, A. Tamar. *"Bayesian Reinforcement Learning: A Survey"*. Foundations and Trends in Machine Learning, 2015.__
 
 * Measure-theoretic probability ([notes](/files/notes/probability.pdf)):
@@ -36,8 +36,8 @@ My current research is focused on developing principled but scalable Bayesian re
   * K.P. Murphy. *"Probabilistic Machine Learning: An Introduction"*. MIT Press, 2022.
   * M.J. Kochenderfer, T.A. Wheeler, K.H. Wray. *"Algorithms for Decision Making"*, MIT Press, 2022.
 
-* Neural networks ([notes](/files/notes/neural_networks.pdf)):
-  * S.J.D. Prince *"Understanding Deep Learning"*. MIT Press, 2023.
+* Artificial neural networks ([notes](/files/notes/neural_networks.pdf)):
+  * S.J.D. Prince. *"Understanding Deep Learning"*. MIT Press, 2023.
 
 * Probabilistic graphical models ([notes](/files/notes/probabilistic_graphical_models.pdf)):
   * D. Koller, N. Friedman. *"Probabilistic Graphical Models: Principles and Techniques"*. MIT Press, 2009.
@@ -51,7 +51,7 @@ My current research is focused on developing principled but scalable Bayesian re
 * Computer design:
   *  D.A. Patterson, J.L. Hennessy. *"Computer Organization and Design: RISC-V Edition"*. Morgan Kaufmann, 2020.
 
-* Mathematical proofs:
+* Mathematical proof:
   * D.J. Velleman. *"How to Prove It: A Structured Approach"*. Cambridge University Press, 2019.
 
 * Calculus ([notes](/files/notes/calculus.pdf)):
