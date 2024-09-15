@@ -45,11 +45,11 @@ My current research is focused on developing principled but scalable Bayesian re
 ## BSc level
 
 * Programming:
-  *  E. Matthes. *"Python Crash Course"*. No Starch Press, 2023.
-  *  K.N. King. *"C Programming: A Modern Approach"*. W. W. Norton & Company, 2008.
+  * E. Matthes. *"Python Crash Course"*. No Starch Press, 2023.
+  * K.N. King. *"C Programming: A Modern Approach"*. W. W. Norton & Company, 2008.
 
 * Computer design:
-  *  D.A. Patterson, J.L. Hennessy. *"Computer Organization and Design: RISC-V Edition"*. Morgan Kaufmann, 2020.
+  * D.A. Patterson, J.L. Hennessy. *"Computer Organization and Design: RISC-V Edition"*. Morgan Kaufmann, 2020.
 
 * Mathematical proof:
   * D.J. Velleman. *"How to Prove It: A Structured Approach"*. Cambridge University Press, 2019.
@@ -60,6 +60,9 @@ My current research is focused on developing principled but scalable Bayesian re
 * Algorithms:
   * T.H. Cormen, C.E. Leiserson, R. Rivest, C. Stein. *"Introduction to Algorithms"*. MIT Press, 2022.
 
+* Theory of computation:
+  * T. Sipser. *"Introduction to the Theory of Computation"*. Course Technology, 2012.
+
 * Analysis:
   * S. Abbott. *"Understanding Analysis"*. Springer, 2015.
 
@@ -67,13 +70,10 @@ My current research is focused on developing principled but scalable Bayesian re
   * S. Axler. *"Linear Algebra Done Right"*. Springer, 1997.
 
 * Probability ([notes](/files/notes/machine_learning.pdf), Sec. 2):
-  *  S. Ross. *"A First Course in Probability"*. Pearson, 2019.
-
-* Theory of computation:
-  * T. Sipser. *"Introduction to the Theory of Computation"*. Course Technology, 2012.
+  * D. Bertsekas, J.N. Tsitsiklis. *"Introduction to Probability"*. Athena Scientific, 2008.
 
 * Artificial intelligence:
-  * S. Russell, P. Norvig. *"Artificial Intelligence: A Modern Approach"*. Pearson, 2020.
+  * S. Russell, P. Norvig. *"Artificial Intelligence: A Modern Approach"*. Pearson, 2021.
 
 * Reinforcement learning ([notes](/files/notes/reinforcement_learning.pdf)):
-  * R.S. Sutton, A.G. Barto. *"Reinforcement Learning: An Introduction"*. MIT Press, 2018.
+  * R.S. Sutton, A.G. Barto. *"Reinforcement Learning: An Introduction"*. MIT Press, 2020.
