@@ -68,7 +68,7 @@ My current research is focused on developing principled but scalable Bayesian re
   * S. Axler. *"Linear Algebra Done Right"*. Springer, 1997.
 
 * Probability ([notes](/files/notes/machine_learning.pdf), Sec. 2):
-  * D. Bertsekas, J.N. Tsitsiklis. *"Introduction to Probability"*. Athena Scientific, 2008.
+  * D.P. Bertsekas, J.N. Tsitsiklis. *"Introduction to Probability"*. Athena Scientific, 2008.
 
 * Artificial intelligence:
   * S. Russell, P. Norvig. *"Artificial Intelligence: A Modern Approach"*. Pearson, 2021.
