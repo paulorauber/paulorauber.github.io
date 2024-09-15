@@ -8,18 +8,18 @@ redirect_from:
 
 I recommend the following references to students interested in artificial intelligence research. 
 
-My current research is focused on developing principled but scalable Bayesian reinforcement learning methods. A typical Bayesian reinforcement learning method represents its knowledge about an environment by a probability distribution over (one-step dynamics) models and uses this knowledge to seek optimal actions. If you would like to pursue a PhD under my supervision, please skim the highlighted references and my [selected publications](/about/).
+My current research is focused on developing principled but scalable Bayesian reinforcement learning methods. A typical Bayesian reinforcement learning method represents its knowledge about an environment by a probability distribution over (one-step dynamics) models and uses this knowledge to seek optimal actions. If you would like to pursue a PhD under my supervision, please skim the survey highlighted below and my [selected publications](/about/).
 
 ## PhD level
 
 * Artificial intelligence:
   * S. Legg. *"Machine Super Intelligence"*. PhD thesis, 2008.
 
-* __Bayesian reinforcement learning ([notes](/files/notes/mtbrl.pdf))__:
+* Bayesian reinforcement learning ([notes](/files/notes/mtbrl.pdf)):
   * __M. Ghavamzadeh, S. Mannor, J. Pineau, A. Tamar. *"Bayesian Reinforcement Learning: A Survey"*. Foundations and Trends in Machine Learning, 2015.__
 
 * Measure-theoretic probability ([notes](/files/notes/probability.pdf)):
-  * R. G. Bartle. *"The Elements of Integration and Lebesgue Measure"*. John Wiley & Sons, 1995.
+  * R.G. Bartle. *"The Elements of Integration and Lebesgue Measure"*. John Wiley & Sons, 1995.
   * D. Williams. *"Probability with Martingales"*. Cambridge University Press, 1991.
 
 * Reinforcement learning theory ([notes](/files/notes/rl_theory.pdf)):
