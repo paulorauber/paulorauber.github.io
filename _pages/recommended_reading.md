@@ -28,7 +28,7 @@ My current research is focused on developing principled but scalable Bayesian re
 
 ## MSc level
 
-* Reinforcement learning ([notes](/files/notes/reinforcement_learning.pdf) and ([notes](/files/notes/probabilistic_graphical_models.pdf))):
+* Reinforcement learning ([notes](/files/notes/reinforcement_learning.pdf) and [notes](/files/notes/probabilistic_graphical_models.pdf)):
   * D.P. Bertsekas. *"A Course in Reinforcement Learning*". Athena Scientific, 2023.
 
 * Machine learning ([notes](/files/notes/machine_learning.pdf)):
