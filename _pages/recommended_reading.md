@@ -28,10 +28,10 @@ My current research is focused on developing principled but scalable Bayesian re
 
 ## MSc level
 
-* Reinforcement learning ([notes](/files/notes/reinforcement_learning.pdf) and [notes](/files/notes/probabilistic_graphical_models.pdf)):
+* Reinforcement learning ([notes](/files/notes/reinforcement_learning.pdf)):
   * D.P. Bertsekas. *"A Course in Reinforcement Learning*". Athena Scientific, 2023.
 
-* Machine learning ([notes](/files/notes/machine_learning.pdf)):
+* Machine learning ([notes](/files/notes/machine_learning.pdf) and [notes](/files/notes/probabilistic_graphical_models.pdf)):
   * C. Bishop. *"Pattern Recognition and Machine Learning"*. Springer-Verlag, 2007.
   * K.P. Murphy. *"Probabilistic Machine Learning: An Introduction"*. MIT Press, 2022.
   * M.J. Kochenderfer, T.A. Wheeler, K.H. Wray. *"Algorithms for Decision Making"*, MIT Press, 2022.
