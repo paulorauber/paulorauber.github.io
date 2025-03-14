@@ -62,7 +62,7 @@ My current research is focused on developing principled but scalable Bayesian re
   * T. Sipser. *"Introduction to the Theory of Computation"*. Course Technology, 2012.
 
 * Analysis:
-  * S. Abbott. *"Understanding Analysis"*. Springer, 2015.
+  * T. Tao. *"Analysis I"*. Springer, 2022.
 
 * Linear algebra ([notes](/files/notes/linear_algebra.pdf)):
   * S. Axler. *"Linear Algebra Done Right"*. Springer, 1997.
