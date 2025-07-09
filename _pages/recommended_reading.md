@@ -12,9 +12,6 @@ My current research is focused on developing principled but scalable Bayesian re
 
 ## PhD level
 
-* Artificial intelligence:
-  * S. Legg. *"Machine Super Intelligence"*. PhD thesis, 2008.
-
 * Bayesian reinforcement learning ([notes](/files/notes/mtbrl.pdf)):
   * __M. Ghavamzadeh, S. Mannor, J. Pineau, A. Tamar. *"Bayesian Reinforcement Learning: A Survey"*. Foundations and Trends in Machine Learning, 2015.__
 
@@ -24,6 +21,8 @@ My current research is focused on developing principled but scalable Bayesian re
 * Reinforcement learning theory ([notes](/files/notes/rl_theory.pdf)):
   * T. Lattimore, C. Szepesvári. *"Bandit Algorithms"*. Cambridge University Press, 2020.
 
+* Artificial intelligence:
+  * S. Legg. *"Machine Super Intelligence"*. PhD thesis, 2008.
 
 ## MSc level
 
