@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Hindsight Policy Gradients - Paulo Rauber.">
+  <title>Hindsight Policy Gradients - Paulo Rauber</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to main content</a>
+
+  <header>
+    <div class="header-text">
+      <h1>Paulo Rauber</h1>
+      <p class="contact">
+        Lecturer in Artificial Intelligence<br>
+        Queen Mary University of London<br>
+        <a href="mailto:p.rauber@qmul.ac.uk">p.rauber@qmul.ac.uk</a>
+      </p>
+      <nav>
+        <a href="index.html">About</a>
+        <a href="work.html" aria-current="page">Work</a>
+      </nav>
+    </div>
+    <img src="files/images/profile.jpg" alt="Paulo Rauber" class="profile-pic" width="150" height="150">
+  </header>
+
+  <main id="main">
+    <h2>Hindsight policy gradients</h2>
+    <p>
+      (<a href="files/refs/hpg.bibtex">citation</a>,
+      <a href="https://github.com/paulorauber/hpg" rel="noopener noreferrer">code</a>,
+      <a href="https://arxiv.org/abs/1711.06006" rel="noopener noreferrer">paper</a>)
+    </p>
+    <p>A reinforcement learning agent that needs to pursue different goals across episodes requires a goal-conditional policy. In addition to their potential to generalize desirable behavior to unseen goals, such policies may also enable higher-level planning based on subgoals. In sparse-reward environments, the capacity to exploit information about the degree to which an arbitrary goal has been achieved while another goal was intended appears crucial to enable sample efficient learning. However, reinforcement learning agents have only recently been endowed with such capacity for hindsight. Our work demonstrates how hindsight can be introduced to policy gradient methods, generalizing this idea to a broad class of successful algorithms. Our experiments on a diverse selection of sparse-reward environments show that hindsight leads to a remarkable increase in sample efficiency.</p>
+
+    <h3>Examples</h3>
+    <p>The videos presented below illustrate the best agents (after the last training step) obtained using a goal-conditional policy gradient estimator (GCPG) or a hindsight policy gradient estimator (HPG) for two environments: FetchPush and Ms. Pac-man. Please see the paper for more details.</p>
+
+    <h3>FetchPush</h3>
+    <p>In a simulation, a robotic arm is required to push a randomly placed object towards a randomly chosen position.</p>
+    <p><img src="files/images/ereturns_fetchpush.png" alt="FetchPush results" loading="lazy"></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Qyt501Om658" title="FetchPush (GCPG)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" loading="lazy" sandbox="allow-scripts allow-same-origin allow-presentation" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/V6jLLb5qhb8" title="FetchPush (HPG)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" loading="lazy" sandbox="allow-scripts allow-same-origin allow-presentation" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    <h3>Ms. Pac-man</h3>
+    <p>In this variant of the homonymous game for ATARI 2600, the goal is to reach a randomly chosen position while avoiding enemies.</p>
+    <p>Important: In this experiment, HPG has been handicapped by harsh active goal subsampling. Please see the paper for more details.</p>
+    <p><img src="files/images/ereturns_mspacman.png" alt="Ms. Pac-man results" loading="lazy"></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oseECAPB9Hw" title="Ms. Pac-man (GCPG)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" loading="lazy" sandbox="allow-scripts allow-same-origin allow-presentation" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uZfEP9Qy_HU" title="Ms. Pac-man (HPG)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" loading="lazy" sandbox="allow-scripts allow-same-origin allow-presentation" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </main>
+</body>
+</html>
