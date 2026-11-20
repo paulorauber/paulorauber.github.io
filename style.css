@@ -109,6 +109,30 @@ li {
   font-weight: 600;
 }
 
+.papers {
+  list-style: none;
+  margin-left: 0;
+}
+
+.papers li {
+  margin-bottom: 0.6rem;
+}
+
+.paper-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.paper-venue {
+  white-space: nowrap;
+}
+
+.papers .venue {
+  font-weight: 600;
+}
+
 a {
   color: var(--color-primary);
   text-decoration: none;
@@ -130,6 +154,8 @@ img {
 
 iframe {
   max-width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
   border: 0;
 }
 
